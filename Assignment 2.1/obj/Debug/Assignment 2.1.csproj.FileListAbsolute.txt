@@ -1,0 +1,10 @@
+C:\Users\Brandon\source\repos\Assignment 2.1\Assignment 2.1\bin\Debug\Assignment 2.1.exe.config
+C:\Users\Brandon\source\repos\Assignment 2.1\Assignment 2.1\bin\Debug\Assignment 2.1.exe
+C:\Users\Brandon\source\repos\Assignment 2.1\Assignment 2.1\bin\Debug\Assignment 2.1.pdb
+C:\Users\Brandon\source\repos\Assignment 2.1\Assignment 2.1\obj\Debug\Assignment 2.1.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\Assignment 2.1\Assignment 2.1\obj\Debug\Assignment_2._1.Form1.resources
+C:\Users\Brandon\source\repos\Assignment 2.1\Assignment 2.1\obj\Debug\Assignment_2._1.Properties.Resources.resources
+C:\Users\Brandon\source\repos\Assignment 2.1\Assignment 2.1\obj\Debug\Assignment 2.1.csproj.GenerateResource.cache
+C:\Users\Brandon\source\repos\Assignment 2.1\Assignment 2.1\obj\Debug\Assignment 2.1.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\Assignment 2.1\Assignment 2.1\obj\Debug\Assignment 2.1.exe
+C:\Users\Brandon\source\repos\Assignment 2.1\Assignment 2.1\obj\Debug\Assignment 2.1.pdb
