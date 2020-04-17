@@ -25,17 +25,23 @@ namespace Assignment_2._1
         private void Form1_Load(object sender, EventArgs e)
         {
             // empty for now
+            this.btn_equals.KeyPress += new System.Windows.Forms.KeyPressEventHandler(keyHandler);
         }
 
-        public void Form1_KeyPress(object sender, KeyPressEventArgs e)
+        public void keyHandler(object sender, System.Windows.Forms.KeyPressEventArgs e)
         {
+            Console.WriteLine(e.KeyChar);
             if (e.KeyChar == (char)13)
             {
                 this.calculate();
             }
-            else
+            else if (e.KeyChar == '(')
             {
-                Console.WriteLine("not the enter key");
+                changeOutput("(");
+            }
+            else if(e.KeyChar == ')')
+            {
+                changeOutput(")");
             }
         }
 
@@ -131,10 +137,10 @@ namespace Assignment_2._1
         private void calculate()
         {
             Console.WriteLine("calc called");
+
+            string temp = String.Copy(txt_output.Text);
             this.clearOutput();
-            string temp = txt_output.Text;
-            
-            txt_output.Text = temp;
+            txt_output.Text = calc.calculate(temp);
         }
 
         private void btn_leftBracket_Click(object sender, EventArgs e)

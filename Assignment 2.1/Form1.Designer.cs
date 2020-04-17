@@ -59,7 +59,7 @@
             this.btn_number1.Location = new System.Drawing.Point(12, 274);
             this.btn_number1.Name = "btn_number1";
             this.btn_number1.Size = new System.Drawing.Size(112, 51);
-            this.btn_number1.TabIndex = 0;
+            this.btn_number1.TabIndex = 12;
             this.btn_number1.Text = "1";
             this.btn_number1.UseVisualStyleBackColor = false;
             this.btn_number1.Click += new System.EventHandler(this.btn_number1_Click);
@@ -213,7 +213,7 @@
             this.btn_equals.Location = new System.Drawing.Point(366, 331);
             this.btn_equals.Name = "btn_equals";
             this.btn_equals.Size = new System.Drawing.Size(112, 51);
-            this.btn_equals.TabIndex = 12;
+            this.btn_equals.TabIndex = 0;
             this.btn_equals.Text = "=";
             this.btn_equals.UseVisualStyleBackColor = false;
             this.btn_equals.Click += new System.EventHandler(this.btn_equals_Click);
