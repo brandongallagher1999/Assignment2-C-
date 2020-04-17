@@ -8,3 +8,12 @@ C:\Users\Brandon\source\repos\Assignment 2.1\Assignment 2.1\obj\Debug\Assignment
 C:\Users\Brandon\source\repos\Assignment 2.1\Assignment 2.1\obj\Debug\Assignment 2.1.csproj.CoreCompileInputs.cache
 C:\Users\Brandon\source\repos\Assignment 2.1\Assignment 2.1\obj\Debug\Assignment 2.1.exe
 C:\Users\Brandon\source\repos\Assignment 2.1\Assignment 2.1\obj\Debug\Assignment 2.1.pdb
+C:\Users\crypt\Desktop\Programming\C#\assignment 2\Assignment2-C-\Assignment 2.1\obj\Debug\Assignment 2.1.csprojAssemblyReference.cache
+C:\Users\crypt\Desktop\Programming\C#\assignment 2\Assignment2-C-\Assignment 2.1\obj\Debug\Assignment_2._1.Form1.resources
+C:\Users\crypt\Desktop\Programming\C#\assignment 2\Assignment2-C-\Assignment 2.1\obj\Debug\Assignment_2._1.Properties.Resources.resources
+C:\Users\crypt\Desktop\Programming\C#\assignment 2\Assignment2-C-\Assignment 2.1\obj\Debug\Assignment 2.1.csproj.GenerateResource.cache
+C:\Users\crypt\Desktop\Programming\C#\assignment 2\Assignment2-C-\Assignment 2.1\obj\Debug\Assignment 2.1.exe
+C:\Users\crypt\Desktop\Programming\C#\assignment 2\Assignment2-C-\Assignment 2.1\obj\Debug\Assignment 2.1.pdb
+C:\Users\crypt\Desktop\Programming\C#\assignment 2\Assignment2-C-\Assignment 2.1\bin\Debug\Assignment 2.1.exe.config
+C:\Users\crypt\Desktop\Programming\C#\assignment 2\Assignment2-C-\Assignment 2.1\bin\Debug\Assignment 2.1.exe
+C:\Users\crypt\Desktop\Programming\C#\assignment 2\Assignment2-C-\Assignment 2.1\bin\Debug\Assignment 2.1.pdb
